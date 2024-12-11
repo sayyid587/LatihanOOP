@@ -12,5 +12,5 @@ Mata kuliah : Bahasa Pemrograman <p>
 ![gambar 3](https://github.com/user-attachments/assets/99f918eb-b358-41a4-b64b-1283ad607069)
 ### 3. view/mahasiswa.py
 ![gambar 4](https://github.com/user-attachments/assets/1c5861f8-8305-4e31-bdc6-f4158449f9af)
-### 3. .venv/main.py
+### 4. .venv/main.py
 ![gambar 5](https://github.com/user-attachments/assets/fdbc2aa5-43de-4540-94b8-606f6fe318b5)
